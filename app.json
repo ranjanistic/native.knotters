@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "knative",
-    "slug": "knative",
+    "name": "Knotters",
+    "slug": "knotters",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
