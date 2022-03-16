@@ -1,8 +1,9 @@
 {
   "expo": {
     "name": "Knotters",
-    "slug": "knotters",
+    "slug": "knative",
     "version": "1.0.0",
+    "owner": "knottersdotorg",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -17,13 +18,17 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "org.knotters.knative",
+      "buildNumber": "1.0.0"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "org.knotters.knative",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
