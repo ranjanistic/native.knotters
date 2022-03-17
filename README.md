@@ -17,3 +17,17 @@ yarn
 ```bash
 yarn start
 ```
+
+```bash
+yarn android
+```
+
+```bash
+yarn ios
+```
+
+## Testing
+
+```bash
+yarn test
+```
